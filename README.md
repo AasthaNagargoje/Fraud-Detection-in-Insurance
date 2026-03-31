@@ -70,4 +70,4 @@ These visualizations help analyze model effectiveness in fraud detection.
 
 Insurance Fraud Detection Research Papers
 Scikit-learn Documentation
-Machine Learning Research Articles
+Machine Learning Research Articles.
